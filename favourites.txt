@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Steak
 Fried potatoes
 Fried eggs
+=======
+Lord of the Rings
+Four Hourseman
+Fast and Furious
+>>>>>>> movies
